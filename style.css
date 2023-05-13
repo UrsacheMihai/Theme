@@ -32,8 +32,8 @@
 
 /* *•̩̩͙⊱••••••••••••✩ VARIABLES ✩••••̩̩͙⊰•••••••••** */
 :root {
-	--theme-name: "Black Hole";
-  --theme-version: "1.5";
+	--theme-name: "Custom Hole";
+  --theme-version: "0.1";
   --blurple: rgb(113, 136, 217);
   --greyple: rgb(151, 168, 180);
   --blurple-sheer: rgba(114, 137, 218, 0.267);
@@ -171,7 +171,7 @@
   position: absolute;
   top: 5px;
   left: 10px;
-  color: rgb(170, 170, 170);
+  color: transparent;
   display: block;
   height: 16px;
   width: fit-content;
